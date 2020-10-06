@@ -1,6 +1,6 @@
 # Personal Website
 
-### Personal Portfolio site for anyone who wants to know more about me professionally
+Personal Portfolio site to showcase my skills and projects for anyone who wants to know more about me professionally.
 
 ## Link:
 
